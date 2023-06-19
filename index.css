@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* common style strats */
+.naki-btn{
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+}
+.price{
+    color: #FA804C;
+}
+
+/* common style strats */
+
+/* navbar style strats */
+.header-section{
+    background: #FFF9F4;
+}
+.logo-img{
+    width: 225px;
+    height: 31px;
+}
+/* navbar style ends */
+
+/* banner section strats */
+.banner-img{
+    width: 70%;
+    height: 90%;
+}
+
+.banner-secion span{
+    color: #FA804C;
+
+}
+/* banner section ends */
+
+.footer-img{
+    width: 78px;
+    height: 82px;
+    margin-top: 15px;
+}
